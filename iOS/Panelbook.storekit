@@ -1,0 +1,28 @@
+{
+  "identifier" : "Panelbook",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "1100001",
+      "localizations" : [
+        {
+          "description" : "Unlock Lead came and solder footage calculator per panel",
+          "displayName" : "Panelbook Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.stainedglasslog.pro",
+      "referenceName" : "Panelbook Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
